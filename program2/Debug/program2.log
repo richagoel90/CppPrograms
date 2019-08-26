@@ -1,0 +1,5 @@
+﻿  program2.cpp
+C:\Users\richa\source\repos\program2\program2.cpp(10,18): error C3861:  'plusOne': identifier not found
+C:\Users\richa\source\repos\program2\program2.cpp(11,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\richa\source\repos\program2\program2.cpp(15,22): error C2065:  'A': undeclared identifier
+C:\Users\richa\source\repos\program2\program2.cpp(16,1): error C2448:  'plusOne': function-style initializer appears to be a function definition

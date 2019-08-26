@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+  C:\Users\richa\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(117) : warning C4715: 'Deletion': not all control paths return a value
+  ConsoleApplication3.vcxproj -> C:\Users\richa\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
